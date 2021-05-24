@@ -1,13 +1,3 @@
-#  File: Project2.py
-#  Description: Adventure game with objects
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 5/1/2020
-#  Date Last Modified: 5/2/2020
-
 class Room:
 
     def __init__(self,name,north,east,south,west,up,down,contents):
