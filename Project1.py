@@ -1,12 +1,5 @@
-#  File: Project1.py
+
 #  Description: Walking around a house adventure game!
-#  Student's Name: Akiko Barreras
-#  Student's UT EID: ab63527
-#  Course Name: CS 303E 
-#  Unique Number: 50180
-#
-#  Date Created: 4/16/2020
-#  Date Last Modified: 4/18/2020
 
 class Room:
 
