@@ -1,3 +1,5 @@
+# Description: Text adventure game where you can walk around, and pick things up or drop things from your inventory
+
 class Room:
 
     def __init__(self,name,north,east,south,west,up,down,contents):
