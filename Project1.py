@@ -87,12 +87,6 @@ def move(direction):
 def displayAllRooms():
     for i in range(0,len(floorPlan)):
         floorPlan[i].displayRoom()
-
-##########################################################################
-###     All code below this is given to you.  DO NOT EDIT IT unless    ###
-###     you need to adjust the indentation to match the indentation    ###
-###     of the rest of your code.                                      ###
-##########################################################################
         
 def loadMap():
 
